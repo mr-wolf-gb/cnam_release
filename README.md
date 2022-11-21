@@ -1,2 +1,2 @@
-# cnam_release
-E-CNAM not official app
+# CNAM release repository
+E-CNAM not official application
